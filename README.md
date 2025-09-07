@@ -9,12 +9,6 @@ Este repositório contém o código-fonte desenvolvido durante o curso **Especia
 1. Sobre o Projeto
 2. Pré-requisitos
 3. Tecnologias Utilizadas
-4. Instalação
-5. Como Executar
-6. Estrutura de Diretórios
-7. Recursos Implementados
-8. Contribuição
-9. Licença
 
 ---
 
