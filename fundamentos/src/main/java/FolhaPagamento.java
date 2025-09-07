@@ -1,3 +1,6 @@
+package br.com.algaworks.especialistajava;
+import java.util.Scanner;
+
 public class FolhaPagamento {
 
     public static void main(String[] args) {
